@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Renan - aka Caverna
+## Hi there 👋, I'm Renan Marcílio - aka Caverna
 
 ### I'm a passionate student of back-end development!
 - 🌱 I'm currently learning everything 😜
@@ -8,8 +8,8 @@
 
 <div>
 	<a href="https://github.com/marcdevrenan">
-	<img height="170em" src="https://github-readme-stats.vercel.app/api?username=marcdevrenan&theme=tokyonight&show_icons=true"/>
-	<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcdevrenan&theme=tokyonight&layout=compact"/>
+	<img height="165em" src="https://github-readme-stats.vercel.app/api?username=marcdevrenan&theme=tokyonight&show_icons=true"/>
+	<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcdevrenan&theme=tokyonight&layout=compact"/>
 </div>
 
 <div style="display: inline_block"><br>
