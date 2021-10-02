@@ -20,7 +20,7 @@
 	<img align="left" alt="caverna-bootstrap" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
 	<img align="left" alt="caverna-postgreSql" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 	<img align="left" alt="caverna-azure" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
-</div><br>
+</div>
 	
 ##
 	
