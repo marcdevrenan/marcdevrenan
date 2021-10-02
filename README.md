@@ -20,9 +20,9 @@
 	<img align="left" alt="caverna-bootstrap" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
 	<img align="left" alt="caverna-postgreSql" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 	<img align="left" alt="caverna-azure" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
-</div>
+</div><br>
 	
-##
+### Contact me:
 	
 <div>
 	<a href="https://wa.me/<5521992166001>" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
