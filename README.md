@@ -1,6 +1,8 @@
 ## Hi there 👋, I'm Renan - aka Caverna
 
 ### I'm a passionate student of back-end development!
+- 🤓 Student at [Infnet] Institute
+- 👨‍🎓 Graduation: Spring 2023
 - 🌱 I'm currently learning everything 😜
 - 🥅 2021/2022 Goals: Acquire enough knowledge to enter the development market
 - ⚡ I love playing guitar and programming listening to retro music
@@ -29,3 +31,5 @@
 	<a href="mailto:marcdevrenan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 	<a href="https://www.linkedin.com/in/renan-ferreira-1175541a3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+[Infnet]: https://www.infnet.edu.br/infnet/
