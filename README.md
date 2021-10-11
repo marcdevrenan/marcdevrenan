@@ -18,7 +18,10 @@
 	<img align="left" alt="caverna-c#" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 	<img align="left" alt="caverna-python" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 	<img align="left" alt="caverna-java" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+	<img align="left" alt="caverna-spring" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+	<img align="left" alt="caverna-js" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 	<img align="left" alt="caverna-html5" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+	<img align="left" alt="caverna-css3" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 	<img align="left" alt="caverna-bootstrap" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
 	<img align="left" alt="caverna-postgreSql" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 	<img align="left" alt="caverna-azure" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
